@@ -33,17 +33,17 @@ MAIA makes the choices based on your preferences. MAIA not only takes into accou
 
 #### Log In Page
 
-![UI for Log In](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19/master/notebooks/ui-login.png)
+![UI for Log In](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19_Public/master/images/ui-login.png)
 
 #### Agenda: add, delete, edit tasks!
 
-![UI for Agenda](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19/master/notebooks/ui-agenda.png)
+![UI for Agenda](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19_Public/master/images/ui-agenda.png)
 
 ## Backend
 
 #### MAIA can plan a whole travel trip for you!
 
-![Backend: MAIA can plan a whole travel trip for you!](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19/master/notebooks/backend-dataProcessing.png)
+![Backend: MAIA can plan a whole travel trip for you!](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19_Public/master/images/backend-dataProcessing.png)
 
 ## Future
 
