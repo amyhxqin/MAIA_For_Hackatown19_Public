@@ -4,7 +4,7 @@
 
 #### Hackatown 2019 Finalist
 
-#### THIS IS THE README.md of MAIA v0.0, RECENTLY MADE PRIVATE. MAIA (v0.0 and upcoming version(s)) is now subject to copyright. The partial or full reproduction of any version of MAIA may lead to legal actions being taken. Please contact me at aq.kaggle@gmail.com for more information.
+#### THIS IS THE README.md of MAIA v0.0, RECENTLY MADE PRIVATE. MAIA (v0.0 and upcoming version(s)) is now subject to copyright. The partial or full reproduction of any version of MAIA may lead to legal actions being taken. Please contact me at amy.huaxuan.qin@gmail.com for more information.
 
 #### What if your agenda can complete the tasks in it for you by itself? What if it can plan all your travel trips by itself, from booking the plane tickets to making a personalized reservation for a different restaurant for each meal?
 
@@ -47,7 +47,7 @@ MAIA makes the choices based on your preferences. MAIA not only takes into accou
 
 ## Future
 
-This version of MAIA is only a demo. I am currently working on an official version that will be hosted online. For more information, please contact me at aq.kaggle@gmail.com.
+This version of MAIA is only a demo. I am currently working on an official version that will be hosted online. For more information, please contact me at amy.huaxuan.qin@gmail.com.
 
 ## Important Files (Now made private. Please contact me.)
 [A commented walk-through of the back-end in jupyter notebook](https://github.com/amyhxqin/MAIA_For_Hackatown19/blob/master/notebooks/maia_notebook.ipynb)
