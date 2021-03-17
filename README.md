@@ -45,10 +45,6 @@ MAIA makes the choices based on your preferences. MAIA not only takes into accou
 
 ![Backend: MAIA can plan a whole travel trip for you!](https://raw.githubusercontent.com/amyhxqin/MAIA_For_Hackatown19_Public/master/images/backend-dataProcessing.png)
 
-## Future
-
-This version of MAIA is only a demo. I am currently working on an official version that will be hosted online. For more information, please contact me at amy.huaxuan.qin@gmail.com.
-
 ## Important Files (Now made private. Please contact me.)
 [A commented walk-through of the back-end in jupyter notebook](https://github.com/amyhxqin/MAIA_For_Hackatown19/blob/master/notebooks/maia_notebook.ipynb)
 
